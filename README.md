@@ -27,7 +27,7 @@
 - 👋 I’m Amila @ereeshika
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on any open source project
+- 💞️ I love to work with open source projects while improving my knowledge
 - 📫 Reach me on twitter [![Twitter Follow](https://img.shields.io/twitter/follow/amilaereeshika?color=black&label=%20&style=social)](https://twitter.com/amilaereeshika)
 
 [![@ereeshika's Holopin board](https://holopin.me/ereeshika)](https://holopin.io/@ereeshika)
