@@ -28,7 +28,7 @@
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any open source project
-- 📫 Reach me on twitter [Twitter Follow](https://img.shields.io/twitter/follow/amilaereeshika?style=social)
+- 📫 Reach me on twitter [![Twitter Follow](https://img.shields.io/twitter/follow/amilaereeshika?style=social)](https://twitter.com/amilaereeshika)
 
 [![@ereeshika's Holopin board](https://holopin.me/ereeshika)](https://holopin.io/@ereeshika)
 <!---
