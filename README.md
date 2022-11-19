@@ -12,8 +12,17 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div id="view_counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=ereeshika&style=flat-square&color=blue" alt=""/>
+</div>
 
-[![@ereeshika's Holopin board](https://holopin.me/ereeshika)](https://holopin.io/@ereeshika)
+<div id="hello" align="center">
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 
 - 👋 Hi, I’m Amila @ereeshika
 - 👀 I’m interested in full stack development
@@ -21,14 +30,8 @@
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 Reach me on twitter @amilaereeshika
 
+[![@ereeshika's Holopin board](https://holopin.me/ereeshika)](https://holopin.io/@ereeshika)
 <!---
 ereeshika/ereeshika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-
-[![](https://visitcount.itsvg.in/api?id=ereeshika&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-<!--
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ereeshika&label=Profile%20Views&color=12&icon=0&pretty=true" />
-</a>
 --->
