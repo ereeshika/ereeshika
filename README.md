@@ -1,4 +1,5 @@
 [![@ereeshika's Holopin board](https://holopin.me/ereeshika)](https://holopin.io/@ereeshika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amila-ereeshika/) 
 
 - 👋 Hi, I’m Amila @ereeshika
 - 👀 I’m interested in full stack development
