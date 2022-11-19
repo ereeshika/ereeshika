@@ -23,8 +23,8 @@
 </h1>
 </div>
 
-
-- 👋 Hi, I’m Amila @ereeshika
+### :technologist: About Me :
+- 👋 I’m Amila @ereeshika
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any open source project
