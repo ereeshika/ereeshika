@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="http://ereeshika.com/www.linkedin.com/in/amila-ereeshika">
